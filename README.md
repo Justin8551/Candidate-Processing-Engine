@@ -22,3 +22,5 @@ Module 4: Candidate Interaction Graph
 
 The project is designed to be modular, allowing for easy maintenance and scalability.
 Each module is implemented in separate files, and the main program integrates all modules to provide a seamless candidate management experience.
+
+Author: Dumitru Gabriel Justin
